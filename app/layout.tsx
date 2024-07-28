@@ -6,7 +6,7 @@ import { ThemeProvider } from "next-themes";
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://next-supabase-vote.vercel.app/"),
+	metadataBase: new URL("https://portfolio-app-three-flame.vercel.app/"),
 
 	title: 'Preet Bhardwaj',
 	authors: {
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 		title: "Preet Bhardwaj",
 		description:
 			"Based in Gurugram, I'm a Frontend developer passionate about injecting excitement into static web apps.",
-		url: "https://next-supabase-vote.vercel.app/",
+		url: "https://portfolio-app-three-flame.vercel.app/",
 		siteName: "Preet Bhardwaj",
 		images: "/og.png",
 		type: "website",
