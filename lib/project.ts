@@ -11,13 +11,13 @@ export interface Project {
 export const data: Project[] = [{
     title: 'Formiverse',
     tech: [SiReact, SiNodedotjs, SiTypescript, SiMongodb, SiTailwindcss],
-    link: 'https://formiverse.vercel.app/',
+    link: 'https://formiverse.netlify.app/',
     cover: '/form.png',
     background: 'bg-indigo-500'
 }, {
     title: 'Dev Vault',
     tech: [SiNextdotjs, SiNodedotjs, SiTypescript, SiMongodb, SiTailwindcss],
-    link: 'https://dev-vault-preet006s-projects.vercel.app/',
+    link: 'https://dev-vaulti.netlify.app/',
     cover: '/pic2.png',
     background: 'bg-green-500'
 },{
